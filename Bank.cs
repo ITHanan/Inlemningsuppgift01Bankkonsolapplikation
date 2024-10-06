@@ -1,5 +1,5 @@
 ﻿
-
+//No need for this for now. 
 namespace Inlämningsuppgift01Bankkonsolapplikation
 {
     public class Bank
